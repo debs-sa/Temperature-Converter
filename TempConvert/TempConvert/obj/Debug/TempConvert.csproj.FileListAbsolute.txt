@@ -1,0 +1,32 @@
+C:\Users\silve\source\repos\TempConvert\TempConvert\bin\Debug\TempConvert.exe.config
+C:\Users\silve\source\repos\TempConvert\TempConvert\bin\Debug\TempConvert.exe
+C:\Users\silve\source\repos\TempConvert\TempConvert\bin\Debug\TempConvert.pdb
+C:\Users\silve\source\repos\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.AssemblyReference.cache
+C:\Users\silve\source\repos\TempConvert\TempConvert\obj\Debug\TempConvert.MainForm.resources
+C:\Users\silve\source\repos\TempConvert\TempConvert\obj\Debug\TempConvert.Properties.Resources.resources
+C:\Users\silve\source\repos\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.GenerateResource.cache
+C:\Users\silve\source\repos\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.CoreCompileInputs.cache
+C:\Users\silve\source\repos\TempConvert\TempConvert\obj\Debug\TempConvert.exe
+C:\Users\silve\source\repos\TempConvert\TempConvert\obj\Debug\TempConvert.pdb
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\bin\Debug\TempConvert.exe.config
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\bin\Debug\TempConvert.exe
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\bin\Debug\TempConvert.pdb
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.AssemblyReference.cache
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.SuggestedBindingRedirects.cache
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\obj\Debug\TempConvert.MainForm.resources
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\obj\Debug\TempConvert.Properties.Resources.resources
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.GenerateResource.cache
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.CoreCompileInputs.cache
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\obj\Debug\TempConvert.exe
+C:\Users\debor\OneDrive\Desktop\Fall 2023\Rapid Application\TempConvert_Dima\TempConvert (1)\TempConvert\TempConvert\obj\Debug\TempConvert.pdb
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\bin\Debug\TempConvert.exe.config
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\bin\Debug\TempConvert.exe
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\bin\Debug\TempConvert.pdb
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.AssemblyReference.cache
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.SuggestedBindingRedirects.cache
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\obj\Debug\TempConvert.MainForm.resources
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\obj\Debug\TempConvert.Properties.Resources.resources
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.GenerateResource.cache
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\obj\Debug\TempConvert.csproj.CoreCompileInputs.cache
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\obj\Debug\TempConvert.exe
+C:\Users\debor\OneDrive\Desktop\Estudos\Fall 2023\Rapid Application\TempConvert_Debora\TempConvert\TempConvert\obj\Debug\TempConvert.pdb
